@@ -1,5 +1,5 @@
 {
-  "name": "fileupload",
+  "name": "multerfileupload",
   "version": "1.0.0",
   "description": "uploading a file to a directory",
   "main": "index.js",
